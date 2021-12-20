@@ -63,7 +63,7 @@ var fight = function () {
 };
 fight();
 
-
+adsf
 
 var playerHealth = 100;
 
